@@ -18,10 +18,6 @@ This is the repository for my Todo List App at Scratchcode
 
 3. **Search and Filter**
    - Users should be able to search for items by title.
-   - Users should be able to filter tasks by due date or completion status.
 
-4. **Security**
-   - The app should implement proper security measures to protect user data.
-   - User sessions should be managed securely.
 
 # More features can be added as required 
